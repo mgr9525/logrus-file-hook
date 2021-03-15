@@ -1,4 +1,4 @@
-package core
+package loglfshook
 
 import (
 	"github.com/sirupsen/logrus"

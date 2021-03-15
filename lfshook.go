@@ -1,5 +1,5 @@
 // Package lfshook is hook for sirupsen/logrus that used for writing the logs to local files.
-package core
+package loglfshook
 
 import (
 	"fmt"
